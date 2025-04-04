@@ -1,0 +1,20 @@
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers de sortie
+*.lst
+
+# Ignorer les fichiers de données SAS
+*.sas7bdat
+
+# Ignorer les fichiers de vue de base de données SAS
+*.sas7bvew
+
+# Ignorer les fichiers de sauvegarde
+*.bak
+
+# Ignorer les fichiers d'indexage SAS
+*.sas7bdat.index
+
+# Ignorer les fichiers spécifiques à l'environnement local
+*.vscode/
